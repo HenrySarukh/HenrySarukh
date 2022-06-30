@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HenrySarukh
+- 👋 Hi, I’m @Henry Sarukhanyan
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on ...
