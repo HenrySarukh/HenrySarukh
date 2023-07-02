@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @Henry Sarukhanyan
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+- 🌱 I’m a Software Engineer
+- 📫 How to reach me:
+  - LinkedIn: [Henry Sarukhanyan](https://www.linkedin.com/in/henry-sarukhanyan/)
+  - Gmail: henry.sarukhany2001@gmail.com
+
 
 <!---
 HenrySarukh/HenrySarukh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
